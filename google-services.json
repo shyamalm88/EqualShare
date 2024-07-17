@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "416538673144",
+    "project_id": "equalshare",
+    "storage_bucket": "equalshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416538673144:android:8f3f9385ece6e4a7c3600d",
+        "android_client_info": {
+          "package_name": "com.shyamalm88.equalShareUi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416538673144-2tce827oktvmmlgde79res9pfe4gjegh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shyamalm88.equalShareUi",
+            "certificate_hash": "189b1d7baff0e6e461e0994ce92eece437ae460a"
+          }
+        },
+        {
+          "client_id": "416538673144-pnadrgfq688ggcjb788iatcplrvb2s6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7U7qjzK2D934g0p_jRGqhO4PzZ-RHEGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416538673144-f6713utc1bo80t9vccilo21fg3jp21ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "416538673144-vgg3utu80b4fcjs8sra8ggnmtnr68f54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shyamalm88.equalShareUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
